@@ -4,7 +4,7 @@ il concerne différents modules chez python:
 numpy, pandas, matplotlib, aussi pour scrapy:beautifulsoup,re. 
 
 # code
-code python sou forme jupyter notebook, nommé par 【】
+code python sous forme jupyter notebook, nommé par 【】
 # produit
 les produits export dans doc : export
 
