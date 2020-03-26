@@ -11,5 +11,9 @@ les produits export dans doc : 【export】
 # liste des projets 
 [projet 1]:   
 [projet 2]:   
-[projet 3]:   
-[projet 4]: “baidu_tieba_spider”:collecter tous les texts et commentaires dans un Post  
+“spider_indices.corr_secteurs.fr”:collecter les données des indices sectoriels et calculer les corrélations afin de faire le tableau thermique.  
+
+[projet 3]:  
+
+[projet 4]:   
+“baidu_tieba_spider”:collecter tous les texts et commentaires dans un Post  
