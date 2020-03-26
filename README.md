@@ -9,7 +9,7 @@ code python sous forme jupyter notebook, nommé par 【】
 les produits export dans doc : export
 
 # liste des projets 
-[projet 1]
-[projet 2]:
-[projet 3]: 
-[projet 4]: “baidu_tieba_spider”:collecter tous les texts et commentaires dans un Post
+[projet 1]:   
+[projet 2]:   
+[projet 3]:   
+[projet 4]: “baidu_tieba_spider”:collecter tous les texts et commentaires dans un Post  
