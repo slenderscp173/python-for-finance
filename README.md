@@ -10,6 +10,8 @@ les produits export dans doc : 【export】
 
 # liste des projets 
 [projet 1]:   
+“api_indice_sectoriel.cn”: le tableau thermique des indices sectoriels chinois    
+
 [projet 2]:   
 “spider_indices.corr_secteurs.fr”:collecter les données des indices sectoriels et calculer les corrélations afin de faire le tableau thermique.  
 
@@ -19,4 +21,7 @@ les produits export dans doc : 【export】
 “baidu_tieba_spider”:collecter tous les texts et commentaires dans un Post  
 
 [projet 5]:   
-"option_PUT"  
+"option_PUT": visualisation(matplotlib)  
+
+[projet 6]:   
+“stratégies d’écart (Spreads)”: visualisation (matplotlib)
